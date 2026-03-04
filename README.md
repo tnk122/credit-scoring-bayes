@@ -1,6 +1,4 @@
 
----
-
 ## 🧰 Қолданылған технологиялар
 
 - Python 3
@@ -9,7 +7,6 @@
 - Matplotlib, Seaborn – визуализация
 - Joblib – модельді сақтау
 
----
 
 ## ⚡ Функционал
 
@@ -25,7 +22,6 @@
    - ROC curve  
    - Confusion matrix  
 
----
 
 ## 📈 Нәтижелер
 
@@ -33,7 +29,6 @@
 - **ROC-AUC**: 0.XXXX  
 - Confusion matrix, probability distribution және ROC curve `results/` папкасында сақталады.
 
----
 
 ## 🚀 Қолдану жолы
 
@@ -43,16 +38,14 @@
 4. Графиктер Notebook ішінде көрсетіледі және `results/` папкасына сақталады  
 5. Модель `models/credit_model.pkl` файлына жазылады
 
----
 
 ## 💡 Ескерту
 
 - CSV файлындағы сепаратор автоматты түрде анықталады (`;` немесе `,`)  
 - Егер негізгі бағандар (`age`, `balance`, `duration`, `campaign`) жоқ болса, жүйе бірінші 4 сандық бағанды қолданады  
 
----
 
 ## 📬 Байланыс
 
 Автор: **Temir Nurmakhan**  
-Электрондық пошта: your_email@example.com
+Электрондық пошта: nurmaxinio@gmail.com
