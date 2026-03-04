@@ -8,7 +8,7 @@ from sklearn.preprocessing import LabelEncoder
 import warnings
 warnings.filterwarnings('ignore')
 
-def run_defense_demo(csv_path='bank.csv'):
+def run_defense_demo(csv_path='../data/bank.csv'):
     print("🚀 Инициализация системы кредитного скоринга (Nagibaev Style)...")
     
     try:
